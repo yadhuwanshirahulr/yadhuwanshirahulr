@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadhuwanshirahulr&label=Profile%20views&color=0e75b6&style=flat" alt="yadhuwanshirahulr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadhuwanshirahulr" alt="yadhuwanshirahulr" /></a> </p>
-
+<img align = "right" alt = "coding" width = "400" src = "https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif">
 <p align="left"> <a href="https://twitter.com/_yadhuwanshi" target="blank"><img src="https://img.shields.io/twitter/follow/_yadhuwanshi?logo=twitter&style=for-the-badge" alt="_yadhuwanshi" /></a> </p>
 
 - 🌱 I’m currently learning **DSA, JS and its frameworks.**
@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/rahul-kumar-7b66bb211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kumar-7b66bb211" height="30" width="40" /></a>
 <a href="https://instagram.com/yadhuwanshirahulr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yadhuwanshirahulr" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rahul_7464" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahul_7464" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yadhuwanshirahu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yadhuwanshirahu1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yadhuwanshirahu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yadhuwanshirahu1" height="30" width="40"  /></a>
 <a href="https://auth.geeksforgeeks.org/user/yadhuwanshirahulraaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yadhuwanshirahulraaz" height="30" width="40" /></a>
 </p>
 
