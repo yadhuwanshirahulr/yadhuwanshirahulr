@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A confused coder suffering from compilation error, TLE, and Wrong outputs.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadhuwanshirahulr&label=Profile%20views&color=0e75b6&style=flat" alt="yadhuwanshirahulr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yadhuwanshirahulr&label=Profile%20views&color=0e75b6&style=flat" alt="yadhuwanshirahulr" />  </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadhuwanshirahulr" alt="yadhuwanshirahulr" /></a> </p>
 <img align = "right" alt = "coding" width = "400" src = "https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif">
